@@ -9,7 +9,8 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-      <p>Hello! I'm <b> Kianna!</b> I am a software Developer.<br> You can contact me on <a href="https://www.facebook.com/reyeskianna/"> facebook</a></br></p>
+      <p>Hello! I am Kianna I am a software Developer
+    <br>You can contact me on <a href="https://www.facebook.com/reyeskianna/"> facebook</a> </br></p>
         <p>10 Things That Require Zero Talent</p>
 <ul>
         <li>1. Being On Time </li>
