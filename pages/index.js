@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello! I'm <b>Kianna!</b> I am a software Developer.<br> You can contact me on <a href="https://www.facebook.com/reyeskianna/"> facebook</a></br></p>
+        <p>Hello! I'm <b>Kianna!</b> I am a software Developer.</p>
         <p>10 Things That Require Zero Talent</p>
 <ul>
         <li>1. Being On Time </li>
@@ -24,9 +24,9 @@ export default function Home() {
         <li>10. Having A Strong Work Ethic</li>
   </ul>
 
-  <p>My Expectations in this subject.</p>
+  <p>My Expectations</p>
 <ul>
-        <li>It will take a lo of hardwork to finish this course.</li>
+        <li>It will take a lot of hardwork to finish course.</li>
         <li>I expect the course to cover topics that are relevant to current trends and developments in the IT industry. </li>
         <li>It can help me solve activities that require me to apply their knowledge to solve complex problems.</li>
   </ul>
