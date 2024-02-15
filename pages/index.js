@@ -9,6 +9,8 @@ export default function Home() {
         <title>No Talent Required</title>
       </Head>
       <section className={utilStyles.headingMd}>
+
+    <p>10 Things That Require Zero Talent </p>
 <ul>
         <li>1. Being On Time </li>
         <li>2. Making An Effort </li>
