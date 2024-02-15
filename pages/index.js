@@ -6,11 +6,9 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>No Talent Required</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello! I'm <b>Kianna!</b> I am a software Developer.</p>
-        <p>10 Things That Require Zero Talent</p>
 <ul>
         <li>1. Being On Time </li>
         <li>2. Making An Effort </li>
@@ -22,13 +20,6 @@ export default function Home() {
         <li>8. Doing A Little Extra</li>
         <li>9. Being Prepared</li>
         <li>10. Having A Strong Work Ethic</li>
-  </ul>
-
-  <p>My Expectations</p>
-<ul>
-        <li>It will take a lot of hardwork to finish course.</li>
-        <li>I expect the course to cover topics that are relevant to current trends and developments in the IT industry. </li>
-        <li>It can help me solve activities that require me to apply their knowledge to solve complex problems.</li>
   </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
